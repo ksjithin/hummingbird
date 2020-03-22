@@ -4,7 +4,7 @@ date: 2020-03-23 01:43:13
 tags:
 ---
 
-![Sqli](https://media-exp1.licdn.com/dms/image/C5112AQEpO4Ls_OCDfA/article-cover_image-shrink_600_2000/0?e=1590624000&v=beta&t=ELJ7YKbX0Z5tMWWMnCK6n3aM0xLTMwSr7yJoOuoXH90 "Sqli")
+![Sqli](https://www.getastra.com/blog/wp-content/uploads/2017/05/xsql-injection-2-650x350.png.pagespeed.ic.UdZjd3jX0J.webp "Sqli")
 
 
 An SQL injection is considered as a high severity vulnerability. The extent of to which the damage can be caused can solely be left to the attacker’s skill and imagination, and the existence of countermeasures, like low privilege connections to the database server, to brace such an attack.
