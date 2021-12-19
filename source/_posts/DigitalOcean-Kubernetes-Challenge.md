@@ -65,7 +65,9 @@ helm repo update
 helm install my-release harbor/harbor -f values.yaml
 ```
 
-Once harbor install is complete , it can be access from URL specified in the values.yaml file.
+Once harbor install is complete , it can be access from URL specified in the values.yaml file. The below screenshot shows my deployed instance of harbor
+
+![](/image/harbor.png)
 
 ## Whats next
 This challege has helped me kickstart with kubernetes and helm. In my next blog im planning to describe how to use this setup in a complete CI/CD environment by setting up a dockerized application , pushing the image into the harbor registry and deploying it using kubernetes environment. Stay Tuned !!!
